@@ -1,0 +1,7 @@
+{
+  "name": "StaySharp",
+  "description": "An ADHD-friendly focus application that uses real-time eye tracking to ensure you stay engaged with educational videos, featuring AI-powered focus insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
